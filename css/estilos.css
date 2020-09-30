@@ -1,0 +1,10 @@
+body{
+	padding: 10px;
+}
+
+.contenedor_login {
+	background-color: orange;
+	position: absolute !important;
+	top: 20%;
+	left: 45%;
+}
